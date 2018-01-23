@@ -1643,8 +1643,10 @@ public class KinectGestures : MonoBehaviour, GestureManagerInterface
 					break;
 				}
 				break;
-				
-			// here come more gesture-cases
+
+            // here come more gesture-cases
+            
+
 		}
 	}
 
